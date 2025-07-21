@@ -1,7 +1,7 @@
 # Hey, I'm Hugo 
 
 ```python
-def hugo():
+def whoishugo():
     """, it's a Software Engineer life for me."""
     findmehere = {
         "Discord": "@hypotenesus",
@@ -11,5 +11,5 @@ def hugo():
     for k, v in findmehere.items():
         print(f"{k:>10}: {v}")
 
-hugo()
+whoishugo()
 ```
