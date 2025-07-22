@@ -5,7 +5,6 @@ def whoishugo():
     """, it's a Software Engineer life for me."""
     findmehere = {
         "Discord": "@hypotenesus",
-        "YouTube": "youtube.com/@echo.whoishugo",
         "GitHub": "github.com/Whoishugos",
     }
     for k, v in findmehere.items():
